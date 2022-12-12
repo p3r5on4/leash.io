@@ -10,7 +10,9 @@ Approach
 Our approaches primarily revolved around understanding the confluence of the following parameters:
 
   Tracking walks
+  
   A weather interface
+  
   Small enough to be placed near the exit of one’s home
 
 With these in mind, we started exploring various form factors and sensing modalities. We chose to have a visual output to present the user with the live weather data, as well as sensing a leash’s presence on the device. We narrowed down on a physical sensor capable of sensing the simple gravitational acceleration experienced by a dog leash. A micro-switch sufficed for the application, and we kept it as an integral design decision till the very end of the process.
