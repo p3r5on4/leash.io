@@ -5,15 +5,15 @@ Documentation for final project.
 
 As hinted in the Context section, the problem is that of providing users in the Greater Seattle Area with a means to track a simple walking streak metric in a device that also stores their dog’s leash, as well as making a better outdoors preparedness strategy through weather data placed in the dog leash’s storage proximity.
 
-Approach
+# Approach
 
 Our approaches primarily revolved around understanding the confluence of the following parameters:
 
-  Tracking walks
+  [] Tracking walks
   
-  A weather interface
+  [] A weather interface
   
-  Small enough to be placed near the exit of one’s home
+  [] Small enough to be placed near the exit of one’s home
 
 With these in mind, we started exploring various form factors and sensing modalities. We chose to have a visual output to present the user with the live weather data, as well as sensing a leash’s presence on the device. We narrowed down on a physical sensor capable of sensing the simple gravitational acceleration experienced by a dog leash. A micro-switch sufficed for the application, and we kept it as an integral design decision till the very end of the process.
 
